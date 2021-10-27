@@ -1,24 +1,22 @@
-# projectcurrency
+# Projeto Conversor de moedas
 
-## Project setup
-```
-yarn install
-```
+![Projeto final](https://github.com/CarlosBaiao/currency-converter/blob/master/src/assets/images/projetofinal.png?raw=true)
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+Este projeto foi desenvolvido com Vue.js, um projeto bem útil, que faz requisições e pega o valor atual de cada moeda, e faz a conversão.
+Nesse projeto tive fazer contato entre componentes, requisições a uma API e modificações nos elementos da DOM.
 
-### Lints and fixes files
-```
-yarn lint
-```
+### Aprendizados 
+- Utilizar o Vue.Js
+- Componentizaçao com Vue.js
+- Requisições ( Axios )
+- Pré-processador css (Less)
+- Responsividade 
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Sobre o projeto
+
+
+![Moeda sendo convertida](https://github.com/CarlosBaiao/currency-converter/blob/master/src/assets/images/projetofuncionando.png?raw=true)
+
+Nessa parte do projeto é quando uma moeda já está sendo convertida, e o usuário pode escolher qual ele vai querer fazer a conversão.
